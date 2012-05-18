@@ -1,0 +1,29 @@
+{
+	"name" : "node-sync",
+	"version" : "0.1.0",
+	"author" : "John Manero <john.manero@gmail.com>",
+	"homepage" : "https://github.com/jmanero/node-sync",
+	"description" : "Keep file trees synchronized across a network",
+	"bugs" : {
+		"url" : "https://github.com/jmanero/node-sync/issues"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/jmanero/node-sync.git"
+	},
+	"contributors": [],
+	"dependencies" : {
+		"fs-watcher" : "*"
+	},
+	"keywords" : [  ],
+	"licenses": [
+	     {
+	       "type": "MIT",
+	       "url": "http://github.com/jmanero/node-sync/blob/master/LICENSE"
+	     }
+     ],
+	"engine" : {
+		"node" : ">=0.6.15"
+	}
+}
+
